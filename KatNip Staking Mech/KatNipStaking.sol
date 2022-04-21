@@ -77,7 +77,7 @@ contract KatNipStaking is Ownable, IERC721Receiver {
       _claim(msg.sender, tokenIds, true);
   }
 
-// @Net2Dev - Follow me on Youtube , Tiktok, Instagram
+// @KronicLabzDev - @KronicKatz
 // TOKEN REWARDS CALCULATION
 // MAKE SURE YOU CHANGE THE VALUE ON BOTH CLAIM AND EARNINGINFO FUNCTIONS.
 // Find the following line and update accordingly based on how much you want 
