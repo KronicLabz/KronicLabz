@@ -3,7 +3,7 @@
 pragma solidity 0.8.4;
 
 import "https://github.com/KronicLabz/KronicLabz/blob/main/KatNip%20Staking%20Mech/KatNipRewards.sol";
-import "https://github.com/net2devcrypto/n2dstaking/Collection.sol";
+import "https://github.com/KronicLabz/KronicLabz/blob/main/KatNip%20Staking%20Mech/KronicKatz.sol";
 
 contract KatNipStaking is Ownable, IERC721Receiver {
 
