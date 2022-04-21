@@ -2,10 +2,10 @@
 
 pragma solidity 0.8.4;
 
-import "https://github.com/net2devcrypto/n2dstaking/N2DRewards.sol";
+import "https://github.com/KronicLabz/KronicLabz/blob/main/KatNip%20Staking%20Mech/KatNipRewards.sol";
 import "https://github.com/net2devcrypto/n2dstaking/Collection.sol";
 
-contract NFTStaking is Ownable, IERC721Receiver {
+contract KatNipStaking is Ownable, IERC721Receiver {
 
   uint256 public totalStaked;
   
